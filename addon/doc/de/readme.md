@@ -32,6 +32,10 @@ Das Add-on „Scanvox for NVDA“ kann von überall auf Ihrem Computer durch Dr�
 
 ## Änderungen
 
+### Version 2025.07.01
+
+  * Kompatibilität mit NVDA 2025.1 getestet
+
 ### Version 2024.08.15
 
   * Im Bearbeitungsbereich können Sie jetzt die Tasten „Vorherige Seite“ und „Nächste Seite“ oder Strg+Umschalt+Pfeil nach oben und Strg+Umschalt+Pfeil nach unten verwenden, um schnell von einer Seite zur anderen zu wechseln.
@@ -83,6 +87,6 @@ Das Add-on „Scanvox for NVDA“ kann von überall auf Ihrem Computer durch Dr�
 
   * Erste Version
 
-[1]: https://github.com/Nael-Sayegh/scanvox-for-nvda/releases/download/2024.08.15/scanvox-2024.08.15.nvda-addon
+[1]: https://github.com/Nael-Sayegh/scanvox-for-nvda/releases/download/2025.07.01/scanvox-2025.07.01.nvda-addon
 
 [2]: https://github.com/Nael-Sayegh/scanvox-for-nvda

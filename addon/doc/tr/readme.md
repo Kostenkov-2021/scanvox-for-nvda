@@ -35,6 +35,10 @@ Bu hareket, girdi hareketleri iletişim kutusunda değiştirilebilir.
 
 ## Değişiklikler
 
+### Sürüm 2025.07.01
+
+  * NVDA 2025.1 ile uyumluluk test edildi
+
 ### Sürüm 2024.08.15
 
   * Düzenleme alanında, bir sayfadan diğerine hızlıca geçmek için artık önceki ve sonraki sayfa tuşlarını veya ctrl+shift+yukarı ok ve ctrl+shift+aşağı ok tuşlarını kullanabilirsiniz.
@@ -85,6 +89,6 @@ Bu hareket, girdi hareketleri iletişim kutusunda değiştirilebilir.
 
   * İlk sürüm.
 
-[1]: https://github.com/Nael-Sayegh/scanvox-for-nvda/releases/download/2024.08.15/scanvox-2024.08.15.nvda-addon
+[1]: https://github.com/Nael-Sayegh/scanvox-for-nvda/releases/download/2025.07.01/scanvox-2025.07.01.nvda-addon
 
 [2]: https://github.com/Nael-Sayegh/scanvox-for-nvda

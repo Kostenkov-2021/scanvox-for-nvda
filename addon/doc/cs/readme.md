@@ -26,6 +26,10 @@ Můžete naskenovat i více stránek a poté text uložit do formátu Word .docx
 Doplněk lze spustit kdekoli klávesovou zkratkou inzert +alt +s.
 
 ## Změny
+### Verze 2025.07.01
+
+  * Kompatibilita testována s NVDA 2025.1
+
 ### Verze 2024.08.15
   * V editačním poli je nově možné použít klávesy  pro pohyb  na další, nebo předchozí stránku,  nebo pro rychlé listování ctrl+shift+up arrow a  ctrl+shift+down arrow
   * Přidáno tlačítko pro odstranění naposledy naskenované stránky.
@@ -79,6 +83,6 @@ Nové funkce
 
   * První verze
 
-[1]: https://github.com/Nael-Sayegh/scanvox-for-nvda/releases/download/2024.08.15/scanvox-2024.08.15.nvda-addon
+[1]: https://github.com/Nael-Sayegh/scanvox-for-nvda/releases/download/2025.07.01/scanvox-2025.07.01.nvda-addon
 
 [2]: https://github.com/Nael-Sayegh/scanvox-for-nvda

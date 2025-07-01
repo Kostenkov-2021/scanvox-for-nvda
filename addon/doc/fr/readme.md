@@ -26,6 +26,10 @@ L'extension "Scanvox pour NVDA" peut être lancée de n'importe où sur votre or
 
 ## Changements
 
+### Version 2025.07.01
+
+  * Compatibilité testée avec NVDA 2025.1
+
 ### Version 2024.08.15
 
   * Dans la zone d'édition, vous pouvez désormais utiliser les touches de page précédente et suivante ou ctrl+shift+flèche haut et ctrl+shift+flèche bas pour passer rapidement d'une page à l'autre
@@ -81,6 +85,6 @@ Copyright ©: 2024 (Nael Sayegh et Nael-Accessvision
 
 <!-- links section -->
 
-[1]: https://github.com/Nael-Sayegh/scanvox-for-nvda/releases/download/2024.08.15/scanvox-2024.08.15.nvda-addon
+[1]: https://github.com/Nael-Sayegh/scanvox-for-nvda/releases/download/2025.07.01/scanvox-2025.07.01.nvda-addon
 
 [2]: https://github.com/Nael-Sayegh/scanvox-for-nvda
